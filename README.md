@@ -23,5 +23,5 @@ hex_transaction = '010000000456919960ac691763688d3d3bcea9ad6ecaf875df5339e148a1f
 # parse from tx
 # print tx's second input's scriptSig
 # print tx's first output's scriptPubKey
-# print tx's first output's amount
+# print tx's second output's amount
 ```

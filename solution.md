@@ -28,6 +28,6 @@ t = Tx.parse(stream)
 print(t.tx_ins[1].script_sig)
 # print tx's first output's scriptPubKey
 print(t.tx_outs[0].script_pubkey)
-# print tx's first output's amount
+# print tx's second output's amount
 print(t.tx_outs[0].amount)
 ```
